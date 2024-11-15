@@ -1,0 +1,85 @@
+.tr{
+    background-color: lightskyblue;
+    border: 2px solid red;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.re{
+    color: green;
+}
+
+.we{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+
+.ds{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+
+
+.ty{
+    background-color: black;
+    text-align: center;
+}
+
+.oi{
+    color: green;
+}
+
+.l{
+    color: green;
+}
+.n{
+    color: aliceblue;
+    background-color: cornflowerblue;
+    width: 300px;
+}
+
+.f{
+    background-color: green;
+}
+
+.g{
+    background-color: blue;
+}
+
+table, tr, td, th{
+    border: 1.5px solid black;
+    border-collapse: collapse;
+  }
+  
+
+.d{
+    background-color: red;
+}
+
+.h{
+    background-color: red;
+}
+
+.p{
+    background-color: rgba(0, 0, 0, 0.795);
+    color: aliceblue;
+}
+
+.a{
+    background-color: rgba(0, 0, 0, 0.733);
+    color: aliceblue;
+}
+
+.cx{
+    background-color: yellow;
+    color: rgba(127, 138, 255, 0.884);
+    text-align: centergit ;
+}
+
+
+
+
+
+
